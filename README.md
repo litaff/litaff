@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
+I've been exploring the world of code for almost ten years. 😶
 
+# 🛠️ Skills
+Languages & Engines: Pure C#, Unity, Godot
+Other Challenges: Open to new experiences, including Minecraft modding
+# 🎮 Interests
+Games are my passion, and I strive to work as close to game development as possible. My goal is to gain extensive knowledge not only in programming but also in 3D, 2D, SFX, and VFX.
+
+My dream is to become a one-man army, capable of creating and delivering all kinds of content—though it may be an ambitious goal! 🚀
 <!--
 **litaff/litaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
